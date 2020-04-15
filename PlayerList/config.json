@@ -1,5 +1,5 @@
 {  
-   "StaffOnly":true,
+   "StaffOnly":false,
    "Messages":[  
       "ServerNameHere",
       "<RichColor Color=\"0, 0.8, 0.8, 1\">There is Currently {} Online!</>",
